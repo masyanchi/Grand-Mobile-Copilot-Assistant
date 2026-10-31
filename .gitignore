@@ -1,0 +1,21 @@
+# PRIVATE Grand Mobile handout data, datasets and model artifacts
+backend/data/*.json
+backend/models/*.joblib
+backend/models/*metadata*.json
+RULES_FULL_RU.md
+GRAND_MOBILE_RULES_FULL_RU.md
+*.jsonl
+*.jsonl.gz
+*.csv
+*.xlsx
+*.sqlite3
+*.sqlite3-*
+*.db
+.env
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
